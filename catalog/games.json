@@ -1,0 +1,23 @@
+{
+  "updated": "2026-10-17T16:25:29.737Z",
+  "games": [
+    {
+      "id": "t1",
+      "name": "تست",
+      "shortName": "te",
+      "client": "win",
+      "color": "#E5E7EB",
+      "tag": "25",
+      "description": "",
+      "featured": false,
+      "comingSoon": false,
+      "downloads": [],
+      "assets": {
+        "hero": "assets/games/t1/hero.png",
+        "capsule": "assets/games/t1/capsule.png",
+        "logo": "assets/games/t1/logo.png",
+        "icon": "assets/games/t1/icon.png"
+      }
+    }
+  ]
+}
