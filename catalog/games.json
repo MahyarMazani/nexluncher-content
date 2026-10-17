@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-17T16:50:54.980Z",
+  "updated": "2026-10-17T16:53:07.804Z",
   "games": [
     {
       "id": "t1",
@@ -16,7 +16,8 @@
         "hero": "assets/games/t1/hero.png",
         "capsule": "assets/games/t1/capsule.png",
         "logo": "assets/games/t1/logo.png",
-        "icon": "assets/games/t1/icon.png"
+        "icon": "assets/games/t1/icon.png",
+        "video": "assets/games/t1/video.mp4"
       }
     }
   ]
