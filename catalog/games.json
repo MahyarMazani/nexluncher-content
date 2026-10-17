@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-17T19:10:48.190Z",
+  "updated": "2026-10-17T19:20:47.734Z",
   "games": [
     {
       "id": "t1",
@@ -11,7 +11,12 @@
       "description": "",
       "featured": false,
       "comingSoon": false,
-      "downloads": [],
+      "downloads": [
+        {
+          "label": "1",
+          "url": "https://www.win-rar.com/predownload.html?&L=0"
+        }
+      ],
       "assets": {
         "hero": "assets/games/t1/hero.png",
         "capsule": "assets/games/t1/capsule.png",
