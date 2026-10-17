@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-17T18:29:00.592Z",
+  "updated": "2026-10-17T18:48:24.403Z",
   "games": [
     {
       "id": "t1",
@@ -19,7 +19,9 @@
         "icon": "assets/games/t1/icon.png",
         "video": "assets/games/t1/video.mp4"
       },
-      "screenshots": [],
+      "screenshots": [
+        "assets/games/t1/shots/shot-mvcr14ze-0.png"
+      ],
       "size": ""
     }
   ]
