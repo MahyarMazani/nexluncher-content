@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-17T17:41:25.627Z",
+  "updated": "2026-10-17T18:18:09.023Z",
   "games": [
     {
       "id": "t1",
@@ -18,7 +18,9 @@
         "logo": "assets/games/t1/logo.png",
         "icon": "assets/games/t1/icon.png",
         "video": "assets/games/t1/video.mp4"
-      }
+      },
+      "screenshots": [],
+      "size": ""
     }
   ]
 }
