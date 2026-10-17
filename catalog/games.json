@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-17T19:01:33.508Z",
+  "updated": "2026-10-17T19:10:48.190Z",
   "games": [
     {
       "id": "t1",
@@ -10,7 +10,7 @@
       "tag": "25",
       "description": "",
       "featured": false,
-      "comingSoon": true,
+      "comingSoon": false,
       "downloads": [],
       "assets": {
         "hero": "assets/games/t1/hero.png",
